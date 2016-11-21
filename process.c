@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <math.h>
 /*
+Para ejecutar el programa desde consola: 	gcc process.c -lm
+
 El promedio de X = 42835.484121
 El promedio de Y = 39737.736855
 El promedio de Z = 0.000067
